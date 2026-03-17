@@ -13,51 +13,41 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/xavi-far" target="_blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/xavifarmartinez" target="_blank">
-<img align="center" src="https://skillicons.dev/icons?i=kaggle" height="30" width="40" />
-</a>
+  <a href="mailto:xavifarmartinez@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail"  alt="gmail" />
+  </a>
+  <a href="https://linkedin.com/in/xavi-far" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin"  alt="linkedin" />
+  </a>
 </p>
 
 ---
 
 # 💻 Tech Stack
 
+#### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,r"/>
+
 #### 🧠 AI / Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,keras,numpy,pandas" height="40" width="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,keras,numpy,pandas,polars"  alt="ai-ml" />
 </p>
 
 #### 📊 Big Data & Data Engineering
 <p>
-<img src="https://skillicons.dev/icons?i=python,kafka,postgres,mongodb,redis" height="40" width="40"/>
+  <img style="background-color: white; border-radius: 20%"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" widht=48 height=48/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb"  alt="big-data" />
+  <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=kafka"  alt="kafka" />
 </p>
 
 #### ⚙️ Backend & Systems
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,linux,git,postman" height="40" width="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,"  alt="backend" />
 </p>
 
 #### 🧰 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=jupyter" height="40" width="40"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xaviifar&theme=radical&show_icons=true&count_private=true&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviifar&theme=radical&hide=html,css&layout=compact" height="160"/>
-</p>
-
----
-
-# 📈 Streak & Visitors
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaviifar&theme=radical" alt="GitHub Streak" height="130"/>
-  <br/>
-  <img src="https://visitcount.itsvg.in/api?id=xaviifar&icon=0&color=0" alt="Profile Views" height="30"/>
+  <img src="https://skillicons.dev/icons?i=docker,postman,git,github,latex"  alt="tools" />
 </p>
