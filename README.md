@@ -1,6 +1,6 @@
 # Hi 👋, I'm Xavi
 
-### 🚀 Backend Developer specialized in AI & Big Data
+### 🚀 Backend Developer specialized in AI & Big Data.
 
 ---
 
@@ -11,13 +11,13 @@
 
 ---
 
-# 🌐 Connect with me
+### 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/xavi-far" target="_blank">
-<img align="center" src="https://cdn.simpleicons.org/linkedin" height="30" width="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
 </a>
 <a href="https://kaggle.com/xavifarmartinez" target="_blank">
-<img align="center" src="https://cdn.simpleicons.org/kaggle" height="30" width="40" />
+<img align="center" src="https://skillicons.dev/icons?i=kaggle" height="30" width="40" />
 </a>
 </p>
 
@@ -25,16 +25,14 @@
 
 # 💻 Tech Stack
 
-#### 🧠 Machine Learning & AI
+#### 🧠 AI / Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,keras" height="40" width="40"/>
-<img src="https://cdn.simpleicons.org/huggingface" height="40" width="40"/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas" height="40" width="40"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,keras,numpy,pandas" height="40" width="40"/>
 </p>
 
 #### 📊 Big Data & Data Engineering
 <p>
-<img src="https://skillicons.dev/icons?i=kafka,postgres,mongodb,redis" height="40" width="40"/>
+<img src="https://skillicons.dev/icons?i=python,kafka,postgres,mongodb,redis" height="40" width="40"/>
 </p>
 
 #### ⚙️ Backend & Systems
@@ -51,8 +49,8 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xaviifar&theme=radical&show_icons=true&count_private=true&hide_title=false" alt="Xavi's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviifar&theme=radical&hide=html,css&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xaviifar&theme=radical&show_icons=true&count_private=true&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviifar&theme=radical&hide=html,css&layout=compact" height="160"/>
 </p>
 
 ---
